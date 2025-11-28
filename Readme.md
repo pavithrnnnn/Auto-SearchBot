@@ -23,6 +23,7 @@ pip install pyautogui
 pip install pillow pygetwindow pymsgbox mouseinfo
 pip install keyboard
 
+```
 ---
 ##🚀 How It Works
 
