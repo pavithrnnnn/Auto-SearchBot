@@ -54,7 +54,7 @@ pip install keyboard
 - 3. Run the main script<br><br>
 
      ```bash
-     python .py
+     python Ghost_SearchBot.py
      
      ```   
 ---
