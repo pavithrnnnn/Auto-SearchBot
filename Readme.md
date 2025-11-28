@@ -25,7 +25,7 @@ pip install keyboard
 
 ```
 ---
-##🚀 How It Works
+## 🚀 How It Works
 
 - Opens Microsoft Edge
 - Generates a random 3–7 word sentence
