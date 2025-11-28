@@ -13,7 +13,6 @@ The script generates natural random sentences and performs real human-like searc
 - 🛑 No browser drivers required — works with your real Edge installation  
 
 ---
-&nbsp;
 ## 📦 Requirements
 >🐍 Python 3.8+
 >🎯 OS-level mouse/keyboard control enabled
