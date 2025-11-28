@@ -16,8 +16,7 @@ The script generates natural random sentences and performs real human-like searc
 ## 📦 Requirements
 >🐍 Python 3.8+
 >🎯 OS-level mouse/keyboard control enabled
-
-&nbsp;
+<br><br>
 Install dependencies:
 
 ```bash
