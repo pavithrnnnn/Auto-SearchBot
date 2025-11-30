@@ -56,12 +56,10 @@ pip install keyboard
      - Save the file after updating.
      This ensures that the bot clicks the correct search bar position every time.<br><br>
 - 3. Run the main script<br><br>
-
-     ```bash
+```bash
      
      python Ghost_SearchBot.py
-     
-     ```
+```
      
 ---
 ## 🛑 Failsafe System
