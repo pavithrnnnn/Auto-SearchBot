@@ -58,9 +58,11 @@ pip install keyboard
 - 3. Run the main script<br><br>
 
      ```bash
+     
      python Ghost_SearchBot.py
      
-     ```   
+     ```
+     
 ---
 ## 🛑 Failsafe System
 
