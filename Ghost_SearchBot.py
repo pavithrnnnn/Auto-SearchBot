@@ -3,9 +3,7 @@ import time
 import random
 import webbrowser
 import keyboard
-# --------------------------------------------------------
-# Configuration
-# --------------------------------------------------------
+
 
 pyautogui.FAILSAFE = True
 
@@ -13,9 +11,7 @@ NUM_SEARCHES = 20  #NO OF SEARCHES
 SEARCH_ENGINE_URL = "https://www.bing.com"  #Obviously for rewards;)
 SEARCH_BOX_COORDS = (X, Y)       #change as per the coordinates acquired from the previous test code 
 
-# --------------------------------------------------------
-# Random sentence generator  CHANGE AS REQUIRED
-# --------------------------------------------------------
+
 def random_sentence():
 
   words = [
